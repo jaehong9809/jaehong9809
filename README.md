@@ -1,4 +1,4 @@
-### Hi there 👋
+### 이재홍의 깃헙 프로필 👋
 
 <!--
 **jaehong9809/jaehong9809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
