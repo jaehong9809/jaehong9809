@@ -2,17 +2,25 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Hong%20Github&color=6DB33F&fontColor=ffffff)
 </div>
+
 <div align="center">
   
   [![jaehong9809's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehong9809&include_all_commits=true&hide_border=true&count_private=true&title_color=6DB33F)](https://github.com/jiholee0/github-readme-stats)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhcoding)](https://solved.ac/jhcoding/)
 </div>
+
+
+
 <p align="center">
   
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">  
 
 </p>
+
+
 
 <!--
 **jaehong9809/jaehong9809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
