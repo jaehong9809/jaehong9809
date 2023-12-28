@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=soft&text=Hong%20Github&color=6DB33F&fontColor=ffffff)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Hong%20Github&color=6DB33F&fontColor=ffffff)
 </div>
 <div align="center">
   
