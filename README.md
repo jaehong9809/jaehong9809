@@ -10,7 +10,7 @@
 - 🧠 Applying AI models (YOLO, LLM, RAG) to solve real-world problems
 -->
 
----
+
 <div align="center">
 
   <!-- 헤더 이미지 제거됨 -->
@@ -20,7 +20,7 @@
 
 </div>
 
----
+
 
 ### 🛠 Tech Stack
 
@@ -46,7 +46,7 @@
 
 </p>
 
----
+
 
 <!-- 
 ### 💼 Featured Projects
@@ -68,7 +68,7 @@
   </a>
 </p>
 
----
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jaehong9809&color=6DB33F&style=flat-square" />
